@@ -1,0 +1,4 @@
+com.lasagnerd.odin
+com.seventhlayer.kokedera
+dev.azn9.plugins.discord
+com.demonwav.minecraft-dev

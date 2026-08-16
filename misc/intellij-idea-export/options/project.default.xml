@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DiscordProjectSettings">
+        <option name="show" value="ASK" />
+        <option name="description" value="" />
+        <option name="applicationTheme" value="default" />
+        <option name="iconsTheme" value="default" />
+        <option name="button1Title" value="" />
+        <option name="button1Url" value="" />
+        <option name="button2Title" value="" />
+        <option name="button2Url" value="" />
+        <option name="customApplicationId" value="" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.lasagnerd.odin.settings.toolchains"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="1622" y="123" key="FileChooserDialogImpl" timestamp="1785943182167">
+          <screen x="1366" y="0" width="1920" height="1080" />
+        </state>
+        <state x="1622" y="123" key="FileChooserDialogImpl/1366.0.1920.1080/0.312.1366.768" timestamp="1785943182167" />
+        <state x="1366" y="0" width="937" height="704" key="SettingsEditor" timestamp="1785943217485">
+          <screen x="1366" y="0" width="1920" height="1080" />
+        </state>
+        <state x="1360" y="0" key="SettingsEditor/1360.0.1920.1080/0.312.1360.768" timestamp="1778622448797" />
+        <state x="1366" y="0" width="937" height="704" key="SettingsEditor/1366.0.1920.1080/0.312.1366.768" timestamp="1785943217485" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,51 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/CameraLock" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/CommandAPI" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Create" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/FartherViewDistance" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/FastBytes" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Folia" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/MartyDevelopers/Marty" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Mindustry" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/NeoForm" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Ponder-Port" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Privet" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/brigadier" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/clipped" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/extralogs" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/PrivetKunsh" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/PrivetKunsh2" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/UnsafeFolia" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/WritablePaper" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/assets" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/enji" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/enji-configs" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/hitori" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/hitori-resourcepack" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/hitori-template" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/hitori-ux" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/kokoro" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/modules" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/proxy-plugin" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/modoruru/xSea" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/neco-modules" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/ocupus" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/pid3" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/pv-addon-discs" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/redstoner" value="true" />
+        <entry key="/mnt/hdd0/backup/GitHub/xR01" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/modoruru" />
+        <option value="$USER_HOME$/IdeaProjects" />
+      </list>
+    </option>
+  </component>
+</application>

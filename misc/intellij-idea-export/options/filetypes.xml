@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="accesstransformer.cfg" type="Access Transformers" />
+      <mapping pattern="*.png.mcmeta" type="JSON" />
+      <mapping pattern="pack.mcmeta" type="JSON" />
+      <mapping pattern="mcmod.info" type="JSON" />
+    </extensionMap>
+  </component>
+</application>

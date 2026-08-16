@@ -1,0 +1,9 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+</keymap>
