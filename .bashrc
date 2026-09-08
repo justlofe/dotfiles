@@ -10,5 +10,6 @@ alias pac\?="sudo pacman -Qs "
 alias pac+="sudo pacman -S "
 alias pac-="sudo pacman -R "
 alias pac++="sudo pacman -Sy "
+alias ssh="kitty +kitten ssh"
 
 export PS1="[\w] "
