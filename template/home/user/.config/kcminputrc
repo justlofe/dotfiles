@@ -1,0 +1,10 @@
+[Libinput][10429][10500][XPPen Deco 640 Pen]
+TabletToolPressureRangeMax=1
+TabletToolRelativeMode=false
+
+[Libinput][13652][62863][Compx VXE R1SE+]
+PointerAccelerationProfile=1
+
+[Libinput][14139][4229][VXE VXE Mouse 1K Dongle Mouse]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1

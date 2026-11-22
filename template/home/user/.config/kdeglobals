@@ -1,6 +1,6 @@
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=56,56,56
+Color=0,0,0
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
@@ -11,7 +11,7 @@ IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=112,111,110
+Color=0,0,0
 ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
@@ -21,13 +21,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=175,55,76
-BackgroundNormal=41,44,48
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=163,42,61
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -35,13 +35,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Complementary]
-BackgroundAlternate=30,87,116
-BackgroundNormal=32,35,38
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -49,13 +49,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -63,8 +63,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header][Inactive]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -77,13 +77,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=169,49,68
-BackgroundNormal=169,49,68
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=163,42,61
+BackgroundNormal=163,42,61
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=255,255,255
-ForegroundLink=170,45,64
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=176,55,69
 ForegroundNeutral=198,92,0
 ForegroundNormal=255,255,255
@@ -91,13 +91,13 @@ ForegroundPositive=23,104,57
 ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -105,13 +105,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=29,31,34
-BackgroundNormal=20,22,24
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -119,13 +119,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
-DecorationFocus=233,61,88
-DecorationHover=233,61,88
-ForegroundActive=233,61,88
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus={{ACCENT_COLOR_RGB}}
+DecorationHover={{ACCENT_COLOR_RGB}}
+ForegroundActive={{ACCENT_COLOR_RGB}}
 ForegroundInactive=161,169,177
-ForegroundLink=246,189,194
+ForegroundLink={{ACCENT_COLOR_RGB}}
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -133,10 +133,10 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-AccentColor=233,61,88
-ColorScheme=BreezeDark
-ColorSchemeHash=9d38eb71ded8ff549da26d57d7cbab9164da243a
-LastUsedCustomAccentColor=233,61,88
+AccentColor={{ACCENT_COLOR_RGB}}
+ColorScheme=Breeze Black
+ColorSchemeHash=4c774772486e0e795942f6d6f632596fdd9ebe99
+LastUsedCustomAccentColor={{ACCENT_COLOR_RGB}}
 TerminalApplication=kitty
 TerminalService=kitty.desktop
 UseSystemBell=true
@@ -162,7 +162,7 @@ Automatically select filename extension=false
 Breadcrumb Navigation=false
 Decoration position=2
 Show Full Path=false
-Show Inline Previews=true
+Show Inline Previews=false
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
@@ -170,7 +170,7 @@ Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
 Sort reversed=true
-Speedbar Width=145
+Speedbar Width=132
 View Style=DetailTree
 
 [KShortcutsDialog Settings]
@@ -183,10 +183,10 @@ BinaryUnitDialect=1
 Enable=false
 
 [WM]
-activeBackground=39,44,49
+activeBackground=0,0,0
 activeBlend=252,252,252
 activeFont=Maple Mono NF CN,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 activeForeground=252,252,252
-inactiveBackground=32,36,40
+inactiveBackground=0,0,0
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177

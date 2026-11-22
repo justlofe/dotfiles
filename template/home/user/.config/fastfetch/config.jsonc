@@ -9,44 +9,44 @@
             "left": 3
         },
         "color": {
-            "1": "#E93D58",
-            "2": "#E93D58"
+            "1": "{{ACCENT_COLOR}}",
+            "2": "{{ACCENT_COLOR}}"
         }
     },
     "modules": [
         "break",
         {
             "type": "custom",
-            "format": "\u001b[38;2;233;61;88m┌──────────────────────Hardware──────────────────────┐"
+            "format": "\u001b[38;2;{{ACCENT_COLOR_RGB_ALT}}m┌──────────────────────Hardware──────────────────────┐"
         },
         {
             "type": "host",
             "key": "󰌢  PC",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "cpu",
             "key": "│ ├󰻠 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "gpu",
             "key": "│ ├󰍹 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "memory",
             "key": "│ ├󰑭 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "disk",
             "key": "└ └󰋊 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "custom",
-            "format": "\u001b[38;2;233;61;88m└────────────────────────────────────────────────────┘"
+            "format": "\u001b[38;2;{{ACCENT_COLOR_RGB_ALT}}m└────────────────────────────────────────────────────┘"
         },
         "break",
         {
@@ -56,53 +56,53 @@
         {
             "type": "os",
             "key": "  OS",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "kernel",
             "key": "│ ├󰌽 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "bios",
             "key": "│ ├󰖡 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "packages",
             "key": "│ ├󰏗 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "shell",
             "key": "└ └󰞷 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         "break",
         {
             "type": "de",
             "key": "󰧨  DE",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "lm",
             "key": "│ ├󰍁 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "wm",
             "key": "│ ├󱂬 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "wmtheme",
             "key": "│ ├󰉦 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "terminal",
             "key": "└ └󰆍 ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "custom",
@@ -116,18 +116,18 @@
         {
             "type": "command",
             "key": "  ›  OS Age  ",
-            "keyColor": "#E93D58",
+            "keyColor": "{{ACCENT_COLOR}}",
             "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
         },
         {
             "type": "uptime",
             "key": "  ›  Uptime  ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "datetime",
             "key": "  ›  DateTime  ",
-            "keyColor": "#E93D58"
+            "keyColor": "{{ACCENT_COLOR}}"
         },
         {
             "type": "custom",

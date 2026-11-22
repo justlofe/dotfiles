@@ -1,0 +1,79 @@
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]=""
+
+# Main text color
+theme[main_fg]="#cfd8dc"
+
+# Title color for boxes
+theme[title]="#ff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#90"
+
+# Background color of selected item in processes box
+# #ffe4eb
+theme[selected_bg]="#f36b7f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#40"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#55bcea"
+
+# Cpu box outline color
+theme[cpu_box]="{{ACCENT_COLOR}}"
+
+# Memory/disks box outline color
+theme[mem_box]="{{ACCENT_COLOR}}"
+
+# Net up/down box outline color
+theme[net_box]="{{ACCENT_COLOR}}"
+
+# Processes box outline color
+theme[proc_box]="{{ACCENT_COLOR}}"
+
+# Box divider line and small boxes line color
+theme[div_line]="#50"
+
+# Temperature graph colors
+theme[temp_start]="{{ACCENT_COLOR}}"
+theme[temp_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[temp_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# CPU graph colors
+theme[cpu_start]="{{ACCENT_COLOR}}"
+theme[cpu_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[cpu_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# Mem/Disk free meter
+theme[free_start]="{{ACCENT_COLOR}}"
+theme[free_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[free_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# Mem/Disk cached meter
+theme[cached_start]="{{ACCENT_COLOR}}"
+theme[cached_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[cached_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# Mem/Disk available meter
+theme[available_start]="{{ACCENT_COLOR_SHADE_2}}"
+theme[available_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[available_end]="{{ACCENT_COLOR}}"
+
+# Mem/Disk used meter
+theme[used_start]="#ff0040"
+theme[used_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[used_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# Download graph colors
+theme[download_start]="{{ACCENT_COLOR}}"
+theme[download_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[download_end]="{{ACCENT_COLOR_SHADE_2}}"
+
+# Upload graph colors
+theme[upload_start]="{{ACCENT_COLOR}}"
+theme[upload_mid]="{{ACCENT_COLOR_SHADE_1}}"
+theme[upload_end]="{{ACCENT_COLOR_SHADE_2}}"

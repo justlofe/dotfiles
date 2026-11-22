@@ -1,0 +1,7 @@
+[NightColor]
+Mode=Constant
+
+[Plugins]
+cubeEnabled=true
+sheetEnabled=true
+wobblywindowsEnabled=true
